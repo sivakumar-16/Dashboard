@@ -1,0 +1,5 @@
+{
+  "Boys": [60, 55, 47, 30, 61],
+  "Girls": [40, 35, 61, 50, 27],
+  "categories": ["IT", "ECE", "EEE", "MECH", "CSE"]
+}
